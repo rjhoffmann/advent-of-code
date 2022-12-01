@@ -23,3 +23,8 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 [kotlin]: https://kotlinlang.org
 [slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
 [template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
+
+## What happened
+I tried learning a new language, kotlin looked great and it was great to use, but I didn't have the bandwidth
+at the time to wrap my head around the problem and lack of knowledge of the language. For 2022, I'm going to
+choose a known language and attempt to complete the whole advent.
