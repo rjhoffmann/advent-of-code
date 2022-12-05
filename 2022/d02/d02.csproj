@@ -8,13 +8,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <None Update="input.txt">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
+      <PackageReference Include="morelinq" Version="3.3.2" />
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="morelinq" Version="3.3.2" />
+      <None Update="input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
     </ItemGroup>
 
 </Project>
